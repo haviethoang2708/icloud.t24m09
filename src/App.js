@@ -8,6 +8,7 @@ function App() {
     <div className="App">
     <Product price={100} name={"Iphone 16"}/>
     <Product price={200}name={"Iphone 16 pro"}/>
+    <Product price={250}name={"Iphone 16 plus"}/>
     <Product proce={300} name={"Iphone 16 pro max"}/>
     </div>
   );

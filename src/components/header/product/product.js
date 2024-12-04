@@ -8,6 +8,7 @@ export default function Product (props) {
             <p>Price: {price}$</p>
             <p>Dien thoai thong minh so 1 the gioi !</p>
             <button type="button">Add to cart</button>
+            <button type="button">Click Buy</button>
         </div>
     );
 }
